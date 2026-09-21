@@ -1,4 +1,4 @@
-# 🗺️ Amsterdam Tourist Attractions — GIS Cartographic Project
+# 🗺️ Amsterdam Tourist Attractions Map
 
 A cartographic GIS project designed to visualize selected tourist attractions across **Amsterdam, Netherlands**, while highlighting the surrounding road network.
 
@@ -71,4 +71,4 @@ The map was designed with a focus on:
 
 GIS Student | GIS & Remote Sensing | Cartography
 
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/ali-ahmed-khalil) • [GitHub](https://github.com/ali-ahmed-khalil)
