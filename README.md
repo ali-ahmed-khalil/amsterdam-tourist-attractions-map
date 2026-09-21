@@ -57,7 +57,7 @@ The map was designed with a focus on:
 
 ## 🖼️ Final Map
 
-![Amsterdam Tourist Attractions Map](amsterdam-tourist-attractions.png)
+![Amsterdam Tourist Attractions Map](MAPS/amsterdam-tourist-attractions.png)
 
 ## 📚 Project Status
 
